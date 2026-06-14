@@ -1,0 +1,4 @@
+# 100-Days-Of-AWS-Challenge-KodeKloud-level-01
+Basic familiarity with the AWS Console is required. Beginner I recommend to complete the course "[Crash Course: AWS Basics](https://learn.kodekloud.com/user/courses/crash-course-aws-basics?_gl=1*rd3h79*_gcl_au*MTY4MjA0NzAwOC4xNzc2ODgxNTA2LjI5NDUwOTQ2OS4xNzgwODUxMjk3LjE3ODA4NTEyOTY.*_ga*MTc2MDQ5MDkxMi4xNzY5MDIyODU4*_ga_GNM9S6ZZKN*czE3ODE0MTgxNzYkbzI4NCRnMSR0MTc4MTQxOTA3MCRqNjAkbDAkaDE2NjQ1NTk2NTAkZEVmeFlpeEFGTHdlSmVoR204UFJYZV9FcElnZXlBanU2M0E.*_ga_CGG6CZZ99B*czE3ODE0MTgxNzYkbzMxNCRnMSR0MTc4MTQxOTA3MCRqNjAkbDAkaDQ2ODY4NTk4MiRkR0pzSG1tUFJZTmFRWkRRNmREbnY5c3FPSTY0Zk9Pa0hhZw..*_ga_T25WYDKNNV*czE3ODE0MTgxNzYkbzI3MiRnMSR0MTc4MTQxOTA3MCRqNjAkbDAkaDE3NTMzOTg4MjMkZF9JUUlKN3lSR2Z2Y2lvZTRNa3FSa1NjR1VzdnhuWlBZSHc.)" from KodeKloud before start it.
+
+
